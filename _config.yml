@@ -21,8 +21,10 @@ author: Dr Rice (Tao-Ho Chang)
 
 navbar-links:
   About Me: "aboutme"
+  Members: ""
   Research: ""
-  Author's home: "https://deanattali.com"
+  Protocols: ""
+  Digest: ""
 
 ################
 # --- Logo --- #
