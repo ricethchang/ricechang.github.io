@@ -25,7 +25,7 @@ navbar-links:
   Research: ""
   Protocols: ""
   Digest: ""
-
+  PMS_app: ""
 ################
 # --- Logo --- #
 ################
@@ -50,14 +50,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "taudch@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  github: ricethchang
+  Researchgate: https://www.researchgate.net/profile/Tao-Ho-Chang
+  ORCID: 0000-0003-2107-6939
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
